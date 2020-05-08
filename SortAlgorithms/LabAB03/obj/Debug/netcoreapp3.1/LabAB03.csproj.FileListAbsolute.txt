@@ -1,0 +1,13 @@
+C:\Users\andre\OneDrive\Документы\Projects\LabAB03\LabAB03\bin\Debug\netcoreapp3.1\LabAB03.exe
+C:\Users\andre\OneDrive\Документы\Projects\LabAB03\LabAB03\bin\Debug\netcoreapp3.1\LabAB03.deps.json
+C:\Users\andre\OneDrive\Документы\Projects\LabAB03\LabAB03\bin\Debug\netcoreapp3.1\LabAB03.runtimeconfig.json
+C:\Users\andre\OneDrive\Документы\Projects\LabAB03\LabAB03\bin\Debug\netcoreapp3.1\LabAB03.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Документы\Projects\LabAB03\LabAB03\bin\Debug\netcoreapp3.1\LabAB03.dll
+C:\Users\andre\OneDrive\Документы\Projects\LabAB03\LabAB03\bin\Debug\netcoreapp3.1\LabAB03.pdb
+C:\Users\andre\OneDrive\Документы\Projects\LabAB03\LabAB03\obj\Debug\netcoreapp3.1\LabAB03.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Документы\Projects\LabAB03\LabAB03\obj\Debug\netcoreapp3.1\LabAB03.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Документы\Projects\LabAB03\LabAB03\obj\Debug\netcoreapp3.1\LabAB03.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Документы\Projects\LabAB03\LabAB03\obj\Debug\netcoreapp3.1\LabAB03.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Документы\Projects\LabAB03\LabAB03\obj\Debug\netcoreapp3.1\LabAB03.dll
+C:\Users\andre\OneDrive\Документы\Projects\LabAB03\LabAB03\obj\Debug\netcoreapp3.1\LabAB03.pdb
+C:\Users\andre\OneDrive\Документы\Projects\LabAB03\LabAB03\obj\Debug\netcoreapp3.1\LabAB03.genruntimeconfig.cache
